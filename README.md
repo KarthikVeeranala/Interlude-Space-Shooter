@@ -6,7 +6,7 @@
 
 ## 🎬 Game Trailer
 
-[![Watch the trailer](https://img.youtube.com/vi/2Jj3hqZs498/0.jpg)](https://youtu.be/2Jj3hqZs498)
+[![Watch the trailer](https://img.youtube.com/vi/dHsKdx9EZbs/0.jpg)](https://youtu.be/dHsKdx9EZbs)
 
 ---
 
@@ -40,6 +40,12 @@
 - 🧠 C++ (core game logic)
 - 🎨 Blender (for 3D assets, optional)
 - 🎼 Royalty-free SFX & background music
+
+---
+
+📌 Disclaimer
+This project was developed rapidly as a prototype for a 24-hour hackathon.
+Expect future improvements, optimizations, and added features in the next iterations!
 
 ---
 
